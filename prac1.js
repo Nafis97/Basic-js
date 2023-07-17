@@ -1,0 +1,18 @@
+var price1= 25;
+var price2 = 35;
+var total = price1+price2;
+console.log(total);
+var number = -5;
+var absoluteNumber = Math.abs(number);
+console.log(absoluteNumber);
+var number1= 5.4678;
+var roundNum = Math.round(number1);
+console.log(roundNum);
+var number2= 5.4375;
+var ceilNum = Math.ceil(number2);
+console.log(ceilNum);
+var number3 = 4.325;
+var floorNum = Math.floor(number3);
+console.log(floorNum);
+var number4 = Math.random();
+console.log(number4);
